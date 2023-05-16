@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author patce
+ *
+ */
+module doublyLinkedList {
+}
